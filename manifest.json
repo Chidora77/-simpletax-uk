@@ -1,0 +1,16 @@
+{
+  "name": "SimpleTax UK - Making Tax Digital",
+  "short_name": "SimpleTax UK",
+  "description": "UK MTD app for self-employed - snap receipts, calculate tax, send to accountant",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#1e40af",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3135/3135679.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
