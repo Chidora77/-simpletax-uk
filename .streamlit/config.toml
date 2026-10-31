@@ -8,3 +8,10 @@ font = "sans serif"
 [server]
 headless = true
 enableXsrfProtection = false
+
+[client]
+toolbarMode = "viewer"
+showErrorDetails = false
+
+[global]
+developmentMode = false
